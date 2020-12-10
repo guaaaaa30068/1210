@@ -1,28 +1,30 @@
 body{
-	background-color:  LightCoral;
+	background-color:  LightYellow;
 }
-@media screen and(min-width: 450px){
+@media screen and(min-width: 480px){
 body{
-	background-color: MediumSlateBlue;
+	background-color: Gold;
 }
+}
+
 .A{
 	border: 1px PowderBlue;
-	background-color:LightSteelBlue; 
-	color:	Khaki;
+	background-color: LightSteelBlue; 
+	color:	Plum;
 	font-size: 30%;
     margin‐left:auto;
     margin‐right:auto;
 }
 #B{
-	border:1px PowderBlue;
-	color: Gold;
+	border:1px MediumPurple;
+	color: LightSeaGreen;
 	font-size: 100%;
 	margin‐left:auto;
     margin‐right:auto;
 }
 #C{
 	border:1px PowderBlue;
-	color: LightSalmon;
+	color: MediumSlateBlue;
 	font-size: 100%;
 	margin‐left:auto;
     margin‐right:auto;

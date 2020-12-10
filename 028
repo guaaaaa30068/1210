@@ -1,0 +1,37 @@
+body{
+	background-color:  LightCoral;
+}
+@media screen and(min-width: 450px){
+body{
+	background-color: MediumSlateBlue;
+}
+.A{
+	border: 1px PowderBlue;
+	background-color:LightSteelBlue; 
+	color:	Khaki;
+	font-size: 30%;
+    margin‐left:auto;
+    margin‐right:auto;
+}
+#B{
+	border:1px PowderBlue;
+	color: Gold;
+	font-size: 100%;
+	margin‐left:auto;
+    margin‐right:auto;
+}
+#C{
+	border:1px PowderBlue;
+	color: LightSalmon;
+	font-size: 100%;
+	margin‐left:auto;
+    margin‐right:auto;
+}
+.D{
+	float:left;
+	margin:10% 10% 10% 10%;
+}
+
+
+
+
